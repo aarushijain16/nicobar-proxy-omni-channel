@@ -102,16 +102,18 @@ All other analytical dataframes - including customers_master, revenue_by_cluster
 # Visualisations
 
 1. **Customer Segmentation Overview** : Visualises 5 behavioural clusters with PCA reduction, representing distinct spend, frequecy, and engagement patterns.
+   
+   ([Scatter Plot](https://github.com/aarushijain16/nicobar-proxy-omni-channel/blob/main/PCA.png), [Bar Graph](https://github.com/aarushijain16/nicobar-proxy-omni-channel/blob/main/Customer%20Segmentation%20Overview.png))
 
-2. **Revenue Contribution by Cluster** : Highlights clusters driving the largest share of total revenue.
+2. [**Revenue Contribution by Cluster**](https://github.com/aarushijain16/nicobar-proxy-omni-channel/blob/main/Revenue%20Contribution.png) : Highlights clusters driving the largest share of total revenue.
 
-3. **Marketing Effectiveness Scatter** : Compares churn risk and loyalty index across clusters, a lens into retention opportunities.
+3. [**Marketing Effectiveness Scatter**](https://github.com/aarushijain16/nicobar-proxy-omni-channel/blob/main/Loyalty%20vs%20Churn.png) : Compares churn risk and loyalty index across clusters, a lens into retention opportunities.
 
-4. **CLV Proxy by Cluster** : Identifies the most valuable segments (highest CLV among Occasional Premiums).
+4. [**CLV Proxy by Cluster**](https://github.com/aarushijain16/nicobar-proxy-omni-channel/blob/main/CLV%20Proxy.png) : Identifies the most valuable segments (highest CLV among Occasional Premiums).
 
-5. **Product Affinity Composition** : Displays dominant product categories by cluster, showing lifestyle parallels for Nicobar.
+5. [**Product Affinity Composition**](https://github.com/aarushijain16/nicobar-proxy-omni-channel/blob/main/Product%20Affinity.png) : Displays dominant product categories by cluster, showing lifestyle parallels for Nicobar.
 
-6. **Operational Efficiency** : Demonstrates consistent dwell patterns and category engagement, relevant for store flow and UX mapping.
+6. [**Operational Efficiency**](https://github.com/aarushijain16/nicobar-proxy-omni-channel/blob/main/Operational%20Efficiency.png) : Demonstrates consistent dwell patterns and category engagement, relevant for store flow and UX mapping.
 
 
 # Final Note
