@@ -93,7 +93,7 @@ All other analytical dataframes - including customers_master, revenue_by_cluster
 
 | **Category**                  | **Tools / Libraries**                                     |
 |:------------------------------:|:---------------------------------------------------------:|
-| **Programming**               | Python (Pandas, Scikit-learn, Seaborn, Matplotlib) |
+| **Programming**               | Python (Pandas, Numpy, Scikit-learn, Seaborn, Matplotlib) |
 | **Visualization**             | Power BI, Matplotlib, Seaborn                             |
 | **Modeling**                  | K-Means Clustering, PCA                                   |
 | **Data Engineering**          | Feature Scaling, Encoding, Synthetic Data Generation      |
